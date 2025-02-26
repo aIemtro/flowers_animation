@@ -70,14 +70,14 @@ body{
 }
 
 .description{
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-bottom: 20px;
     text-align: center;
 }
 
 .button a{
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: #111;
 }
 
