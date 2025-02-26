@@ -2242,7 +2242,7 @@ body {
 
 .centered {
   position: absolute;
-  top: 195%; /* Ajusta este valor si necesitas mover el texto más arriba o más abajo */
+  top: 0%; /* Ajusta este valor si necesitas mover el texto más arriba o más abajo */
   left: 20%; 
   color: #FFD700;
   font-size: 5vmin; 
