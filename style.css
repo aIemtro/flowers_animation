@@ -2242,7 +2242,7 @@ body {
 
 .centered {
   position: absolute;
-  top: 95%; /* Ajusta este valor si necesitas mover el texto más arriba o más abajo */
+  top: 195%; /* Ajusta este valor si necesitas mover el texto más arriba o más abajo */
   left: 20%; 
   color: #FFD700;
   font-size: 5vmin; 
@@ -2259,7 +2259,7 @@ body {
   height: auto;
   overflow: hidden;
   z-index: 1000;
-  animation: fadeIn 3s ease-in-out, moveLetters 3s infinite alternate; 
+  animation: fadeIn 1s ease-in-out, moveLetters 1s infinite alternate; 
 }
 
 @keyframes moveLetters {
